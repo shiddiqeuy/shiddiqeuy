@@ -2,10 +2,10 @@
 
 # Muhammad Shiddiq Azis
 
-### I build systems that connect  
+### Builder of useful systems at the intersection of  
 **Business × Software × AI × Education**
 
-`Builder` · `Lecturer` · `Strategic Growth Consultant`
+`Strategic Growth Consultant` · `Lecturer` · `System Builder`
 
 Bandung, Indonesia 🇮🇩
 
@@ -13,155 +13,84 @@ Bandung, Indonesia 🇮🇩
 
 ---
 
-## 👋 Hello, I'm Shiddiq
+## About
 
-I enjoy turning messy real-world problems into systems.
+I turn messy real-world problems into systems people can actually use.
 
-Sometimes that means building software.  
-Sometimes automating a business process.  
-Sometimes teaching algorithms.  
-And sometimes questioning whether we should build the thing at all.
+My work usually starts with one question:
 
-My work sits somewhere between:
+> **What should become simpler, faster, clearer, or more measurable?**
+
+Then I work backward—from business process and user behavior to software, data, automation, and AI.
+
+---
+
+## What I build
+
+**AI & Agentic Systems**  
+AI-assisted workflows, coding agents, business automation, CRM intelligence, knowledge systems, and human-in-the-loop operations.
+
+**Business Software**  
+ERP, CRM, SCM, analytics, operational dashboards, marketplaces, and internal tools.
+
+**Computer Science Education**  
+Algorithms, data structures, computational thinking, and practical programming experiences for students.
+
+---
+
+## Current stack
+
+`Python` · `Go` · `C++` · `JavaScript` · `React` · `Flask`
+
+`PostgreSQL` · `Supabase` · `Firebase` · `Google Cloud` · `Cloud Run`
+
+`LLMs` · `AI Agents` · `n8n` · `GitHub Actions`
+
+---
+
+## Selected work
+
+### 🧹 [Android Cleaner](https://github.com/shiddiqeuy/android-cleaner)
+
+A lightweight ADB utility experiment for cleaning and debugging Android devices.
+
+`PowerShell` · `ADB` · `Automation`
+
+### 🧠 [C++ Data Structure Class](https://github.com/shiddiqeuy/cpp-data-structure-class)
+
+A collaborative GitHub workspace for teaching data structures, troubleshooting code, and engineering collaboration.
+
+`C++` · `Data Structures` · `Teaching` · `GitHub Collaboration`
+
+---
+
+## How I think
 
 ```text
-Business Problem
-      ↓
-System Thinking
-      ↓
-Software / Data / AI
-      ↓
-Experiment
-      ↓
+Understand the problem
+        ↓
+Model the system
+        ↓
+Make assumptions explicit
+        ↓
+Build the smallest useful experiment
+        ↓
 Measure
-      ↓
-Improve
+        ↓
+Learn
+        ↓
+Iterate
 ```
 
----
-
-## 🔭 What I'm Building
-
-### 🤖 AI & Agentic Systems
-
-Exploring practical ways to use AI agents beyond chat interfaces:
-
-- workflow automation
-- coding agents
-- business operations
-- CRM & lead qualification
-- analytics
-- knowledge systems
-- human-in-the-loop workflows
-
-### 🏗️ Business Software
-
-I build and experiment with systems around:
-
-`ERP` `CRM` `SCM` `Analytics` `Automation` `Marketplace` `Operations`
-
-My favorite problem:
-
-> **How do we turn an operational mess into an understandable system?**
-
-### 🎓 Computer Science Education
-
-I teach and experiment with ways to make difficult concepts easier to understand.
-
-Currently exploring:
-
-```text
-Algorithms
-├── Searching
-├── Sorting
-├── BFS / DFS
-├── Dijkstra
-└── Traveling Salesman Problem
-
-Data Structures
-├── Arrays
-├── Pointers
-├── Linked Lists
-└── Abstract Data Types
-
-Computational Thinking
-├── Decomposition
-├── Pattern Recognition
-├── Abstraction
-└── Algorithmic Thinking
-```
-
-The goal isn't memorizing syntax.
-
-**The goal is learning how to think.**
+I prefer useful systems over impressive demos.
 
 ---
 
-## ⚡ Selected Experiments
+## Teaching philosophy
 
-### 🧹 Android Cleaner
+> **Confusion is not the opposite of learning.**
 
-A lightweight ADB-based experiment for cleaning and debugging Android devices.
-
-**PowerShell · ADB · Automation**
-
-[Explore Repository →](https://github.com/shiddiqeuy/android-cleaner)
-
-### 🧠 C++ Data Structure Class
-
-A collaborative GitHub workspace for students learning data structures, troubleshooting code, and practicing engineering collaboration.
-
-**C++ · Data Structures · GitHub Collaboration**
-
-[Explore Repository →](https://github.com/shiddiqeuy/cpp-data-structure-class)
-
----
-
-## 🧰 Things I Work With
-
-### Software
-
-`Python` `Go` `C++` `JavaScript` `React` `Flask`
-
-### Data
-
-`PostgreSQL` `Supabase` `SQL` `Analytics`
-
-### Cloud & Infrastructure
-
-`Google Cloud` `Cloud Run` `Firebase` `Vercel` `GitHub Actions`
-
-### AI & Automation
-
-`LLMs` `AI Agents` `n8n` `Coding Agents` `Workflow Automation`
-
-### Business
-
-`ERP` `SCM` `CRM` `Growth` `Market Research` `Process Design`
-
----
-
-## 🧪 My Working Philosophy
-
-```text
-Don't start with technology.
-
-Understand the problem.
-Model the system.
-Make assumptions explicit.
-Build the smallest useful experiment.
-Measure what happens.
-Learn.
-Repeat.
-```
-
----
-
-## 👨‍🏫 Teaching Philosophy
-
-> Confusion is not the opposite of learning.
-
-Questions, wrong answers, debugging, disagreement, and correction are often where learning actually starts.
+Questions, wrong answers, debugging, disagreement, and correction are often where understanding starts.
 
 ```text
 read()
@@ -175,25 +104,21 @@ repeat()
 
 ---
 
-## 🧭 Currently Exploring
+## Currently exploring
 
 - Agentic software development
 - AI-native business operations
+- Coding agents and software delivery workflows
 - Personal knowledge systems
-- Human + AI collaboration
 - Computational thinking for children
-- Better ways of teaching algorithms
+- Better ways to teach algorithms
 - Software as a tool for organizational change
 
 ---
 
 <div align="center">
 
-### Build useful things.  
-### Ask better questions.  
-### Keep experimenting.
-
-<br>
+### Build useful things. Ask better questions. Keep experimenting.
 
 **Muhammad Shiddiq Azis**
 
